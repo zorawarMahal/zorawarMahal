@@ -5,7 +5,7 @@ Final year B.Tech undergrad and developer
 -----------------------------------------
 
 * 🌍  I'm based in India
-* 🧠  I'm learning AI/ML, Tensorflow/PyTorch, Backend Development (Java), Cloud Computing(AWS)
+* 🧠  I'm learning AI/ML, Tensorflow/PyTorch, Backend Development (Java/SpringBoot), Cloud Computing(AWS)
 * ⚡  Prominent problem solver, hands-on experience with MERN stack, data science & analytics
 
 ### Skills
